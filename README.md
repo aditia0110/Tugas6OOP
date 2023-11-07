@@ -135,6 +135,6 @@ namespace tugas6
 
 Demikian sedikit latihan dari saya
 
-kurang lebihnya mohon maaf 
+kurang lebihnya mohon maaf
 
 **Terimakasih**
