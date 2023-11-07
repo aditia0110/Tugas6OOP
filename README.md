@@ -1,9 +1,12 @@
 ## **TUGAS PEMROGRAMAN ORIENTASI OBJEK**
+Tugas ini dibuat untuk memenuhi tugas matakuliah **Pemrograman Orientasi Objek**
 
 Nama : Aditia Seftiawan  
 Nim  : 312210094  
 Kelas : TI.22.B1  
 Matakuliah : Pemrograman Orientasi Objek  
+
+Latihan membuat diagram class **Setter & Getter**
 
 ## Source code 
 ``` Java
