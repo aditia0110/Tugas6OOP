@@ -132,3 +132,9 @@ namespace tugas6
 
 ## Hasil
 <img width="960" alt="image" src="https://github.com/aditia0110/Tugas6OOP/assets/115475348/a22778a3-7fc9-43e8-b105-c46105f79e97">
+
+Demikian sedikit latihan dari saya
+
+kurang lebihnya mohon maaf 
+
+**Terimakasih**
